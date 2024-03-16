@@ -4,11 +4,11 @@ const Header = () => {
         <div class="navbar bg-base-100">
             <div class="navbar bg-base-100">
                 <div class="navbar-start">
-                    <a class="text-xl">Recipe Calories</a>
+                    <a class="text-3xl font-bold">Recipe <span className='text-blue-900'>Calories</span></a>
                 </div>
                 <div class="navbar-center hidden lg:flex">
-                    <ul class="menu menu-horizontal px-1">
-                        <li><a>Home</a></li>
+                    <ul class="menu menu-horizontal px-1 font-semibold">
+                        <li><a className='text-blue-900'>Home</a></li>
                         <li><a>Recipes</a></li>
                         <li><a>About</a></li>
                         <li><a>Search</a></li>

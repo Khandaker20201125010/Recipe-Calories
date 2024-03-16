@@ -30,7 +30,7 @@ const Header = () => {
                     </div>
                     <ul tabindex="0" class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52">
                         <li>
-                            <a class="justify-between">
+                            <a class="">
                                 Profile
                                 <span class="badge">New</span>
                             </a>

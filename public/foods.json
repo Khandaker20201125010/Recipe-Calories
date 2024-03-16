@@ -1,24 +1,24 @@
 [
     {
-      "recipe_image": "https://example.com/recipe1.jpg",
+      "recipe_image": "https://i.ibb.co/7NxP9JZ/Rectangle2.png",
       "recipe_id": "001",
-      "recipe_name": "Spicy Basil Chicken Stir-Fry",
-      "short_description": "A flavorful and quick chicken stir-fry with basil leaves.",
+      "recipe_name": " Chicken Caesar Salad",
+      "short_description": "A delicious and nutritious Chicken Caesar Salad with spices.",
       "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
       "preparing_time": "30 min",
       "calories": "320 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe2.jpg",
+      "recipe_image": "https://i.ibb.co/7R7dy9t/Rectangle3.png",
       "recipe_id": "002",
-      "recipe_name": "Vegetable Curry",
-      "short_description": "A delicious and nutritious vegetable curry with spices.",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with savory meat sauce.",
       "ingredients": ["500 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "150 g tofu"],
       "preparing_time": "45 min",
       "calories": "280 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe3.jpg",
+      "recipe_image": "https://i.ibb.co/2S6hYBx/freshly-cooked-vegetarian-risotto-with-edible-mushrooms-generated-by-ai-photo.jpg",
       "recipe_id": "003",
       "recipe_name": "Mushroom Risotto",
       "short_description": "Creamy and comforting risotto made with mushrooms and Arborio rice.",
@@ -27,7 +27,7 @@
       "calories": "380 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe4.jpg",
+      "recipe_image": "https://i.ibb.co/qp61Hxw/grilled.jpg",
       "recipe_id": "004",
       "recipe_name": "Grilled Salmon with Asparagus",
       "short_description": "Healthy and delicious grilled salmon served with roasted asparagus.",
@@ -36,7 +36,7 @@
       "calories": "250 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe5.jpg",
+      "recipe_image": "https://i.ibb.co/zWchMVL/fresh.jpg",
       "recipe_id": "005",
       "recipe_name": "Caprese Salad",
       "short_description": "A classic Italian salad with fresh tomatoes, mozzarella, and basil.",
@@ -45,10 +45,10 @@
       "calories": "180 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe6.jpg",
+      "recipe_image": "https://i.ibb.co/xYgXcL9/omelette-inside-140725-1799.jpg",
       "recipe_id": "006",
-      "recipe_name": "Pasta Carbonara",
-      "short_description": "Rich and creamy pasta dish with bacon, eggs, and Parmesan cheese.",
+      "recipe_name": "Toast with omelette",
+      "short_description": "Toast with bacon, eggs, and Parmesan cheese.",
       "ingredients": ["400 g spaghetti", "200 g bacon", "3 eggs", "100 g grated Parmesan cheese"],
       "preparing_time": "35 min",
       "calories": "450 calories"

@@ -8,11 +8,12 @@ const Foods = ({handelAddfood}) => {
         fetch('foods.json')
         .then(res => res.json())
         .then (data =>setFoods(data))
-    },[])
+    },[]);
+   
     return (
-        <div className='w-2/3 flex flex-wrap gap-12'> 
+        <div className='w-full flex flex-wrap gap-2'> 
          {
-            foods.map(foods =><CookFood key={foods.recipe_id} foods={foods} handelAddfood={handelAddfood}></CookFood>)
+            foods.map((foods,idx) =><CookFood key={idx} foods={foods} handelAddfood={handelAddfood}></CookFood>)
             
          }
         </div>

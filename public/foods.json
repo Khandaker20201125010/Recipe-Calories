@@ -5,7 +5,7 @@
       "recipe_name": " Chicken Caesar Salad",
       "short_description": "A delicious and nutritious Chicken Caesar Salad with spices.",
       "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
-      "preparing_time": "30 min",
+      "preparing_time": "30 minutes",
       "calories": "320 calories"
     },
     {
@@ -14,7 +14,7 @@
       "recipe_name": "Spaghetti Bolognese",
       "short_description": "Classic Italian pasta dish with savory meat sauce.",
       "ingredients": ["500 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "150 g tofu"],
-      "preparing_time": "45 min",
+      "preparing_time": "45 minutes",
       "calories": "280 calories"
     },
     {
@@ -23,7 +23,7 @@
       "recipe_name": "Mushroom Risotto",
       "short_description": "Creamy and comforting risotto made with mushrooms and Arborio rice.",
       "ingredients": ["300 g Arborio rice", "500 g mushrooms", "1 liter vegetable broth", "100 g Parmesan cheese"],
-      "preparing_time": "40 min",
+      "preparing_time": "40 minutes",
       "calories": "380 calories"
     },
     {
@@ -32,7 +32,7 @@
       "recipe_name": "Grilled Salmon with Asparagus",
       "short_description": "Healthy and delicious grilled salmon served with roasted asparagus.",
       "ingredients": ["4 salmon fillets", "500 g asparagus", "50 ml olive oil", "1 lemon"],
-      "preparing_time": "25 min",
+      "preparing_time": "25 minutes",
       "calories": "250 calories"
     },
     {
@@ -41,7 +41,7 @@
       "recipe_name": "Caprese Salad",
       "short_description": "A classic Italian salad with fresh tomatoes, mozzarella, and basil.",
       "ingredients": ["4 ripe tomatoes", "200 g fresh mozzarella", "100 g fresh basil leaves", "2 tbsp balsamic vinegar"],
-      "preparing_time": "15 min",
+      "preparing_time": "15 minutes",
       "calories": "180 calories"
     },
     {
@@ -50,7 +50,7 @@
       "recipe_name": "Toast with omelette",
       "short_description": "Toast with bacon, eggs, and Parmesan cheese.",
       "ingredients": ["400 g spaghetti", "200 g bacon", "3 eggs", "100 g grated Parmesan cheese"],
-      "preparing_time": "35 min",
+      "preparing_time": "35 minutes",
       "calories": "450 calories"
     }
   ]

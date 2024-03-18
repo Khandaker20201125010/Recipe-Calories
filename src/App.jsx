@@ -5,6 +5,8 @@ import CookCount from './components/Cook/CookCount'
 import Foods from './components/Food/Foods'
 import Header from './components/Header/Header'
 import Recipie from './components/Header/Recipie'
+import Cooking from './components/Cooking/Cooking'
+
 
 function App() {
   const [foodys,setfoods] = useState([])
@@ -19,10 +21,16 @@ function App() {
     <Header></Header> 
     <Banner></Banner>
     <Recipie></Recipie>
-    <div className='flex mt-20'>
+    <div>
+    <div className='flex w-full mt-20'>
     <Foods handelAddfood ={handelAddfood}></Foods>
-    <div className='mt-20 '>
+    <div className='mt-20 w-2/4 shadow-2xl rounded-3xl '>
+    
     <CookCount foods={foodys}></CookCount>
+     
+    <Cooking></Cooking>
+    </div>
+   
     </div> 
     </div>
     </div>
